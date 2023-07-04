@@ -1,0 +1,15 @@
+# data.txt
+0001 	qkerridge0lfkjmldkf@cyberchimps.com 	123 	0 	2023-02-26 17:31:09 0002 	tticehurst1@bluehost.com 	123 	0 	2023-02-07 03:23:43 0003 	tbertomier2@altervista.org 	123 	1 	2023-02-19 18:44:50 a
+
+# data.idx
+0001 0
+0002 81
+0003 149
+...
+3502 10548
+...
+
+# data.unq
+qkerridge0lfkjmldkf@cyberchimps.com 9
+tticehurst1@bluehost.com            89
+tbertomier2@altervista.org          157
